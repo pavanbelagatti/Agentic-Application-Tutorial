@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-openai
+openai
+singlestoredb
+langchain-singlestore
+requests
+langchain-community
+duckduckgo-search
+langchain-tavily

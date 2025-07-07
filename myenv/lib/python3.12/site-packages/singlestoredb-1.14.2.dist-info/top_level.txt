@@ -1,0 +1,3 @@
+_singlestoredb_accel
+singlestoredb
+sqlx
